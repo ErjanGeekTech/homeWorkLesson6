@@ -1,8 +1,9 @@
 package com.company;
 
-public class GameEntity extends Weapon {
-    private int health;
-    private int damage;
+public class GameEntity{
+
+     int health;
+     int damage;
 
     public int getHealth() {
         return health;
