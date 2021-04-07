@@ -9,7 +9,7 @@ public class Main {
         Weapon weapon = new Weapon();
         weapon.setTypeGun("Firearms");
         weapon.setNameGun("AWP");
-        //boss.setWeapon(new Weapon("efw","Efw"));
+
 
 
 
