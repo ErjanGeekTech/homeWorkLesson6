@@ -4,10 +4,10 @@ public class Weapon {
     private String typeGun;
      private String nameGun;
 
-//    public Weapon(String typeGun, String nameGun) {
-//        this.typeGun = typeGun;
-//        this.nameGun = nameGun;
-//    }
+    public Weapon(String typeGun, String nameGun) {
+        this.typeGun = typeGun;
+        this.nameGun = nameGun;
+    }
 
     public String getTypeGun() {
         return typeGun;
